@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="153" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYxdjRuNjdxZXIwcnRsZG96MGtwNTA1bTRwZzd6ODFyeHYwMG5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
