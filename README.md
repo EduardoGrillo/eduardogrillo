@@ -11,18 +11,6 @@ Experience with REST APIs, cloud infrastructure, and legacy systems.
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoGrillo&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub streak"
-  />
-</div>
-
----
-
 ### 🛠️ Technologies & Tools
 
 #### Languages
